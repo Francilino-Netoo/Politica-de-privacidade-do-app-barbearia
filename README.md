@@ -15,11 +15,7 @@ Bem-vindo ao nosso aplicativo móvel. Esta Política de Privacidade explica como
 ## Como Usamos Suas Informações
 
 Usamos as informações que coletamos para:
-- Fornecer, operar e manter nosso aplicativo
-- Melhorar, personalizar e expandir nosso aplicativo
-- Entender e analisar como você usa nosso aplicativo
-- Desenvolver novos produtos, serviços, recursos e funcionalidades
-- Comunicar com você, diretamente ou através de um de nossos parceiros, incluindo para atendimento ao cliente, para fornecer atualizações e outras informações relacionadas ao aplicativo
+- So são usadas para você fazer login no App e nada mais.
 
 ## Divulgação de Suas Informações
 
