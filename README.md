@@ -5,7 +5,7 @@
 Bem-vindo ao nosso aplicativo móvel. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações quando você usa nosso aplicativo. Ao usar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política.
 
 ## ATENÇÃO ESSE APLICATIVO É UM PROJETO PESSOAL
-- ### Esse App é um projeto pessoal, vocês podem usar E-mails ficticios par criar uma conta, não precisa usar E-mails e senhas pessoais
+- ### Esse App é um projeto pessoal, vocês podem usar E-mails ficticios para criar uma conta, não precisa usar E-mails e senhas pessoais
 
 ## Informações que Coletamos
 
